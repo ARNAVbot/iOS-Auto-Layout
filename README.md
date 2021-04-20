@@ -1,4 +1,4 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+
 
 # Auto Layout 
 
@@ -23,9 +23,5 @@ Although Dicee is already pretty dicey, we get into problems when we try to rota
 * How to use Stack Views to create complex interfaces.
 
 
-
-
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
+### To refer to the videos , go to section 6 here -> https://www.udemy.com/course/ios-13-app-development-bootcamp/learn/lecture/16252628#overview (Videso 59-68)
 
