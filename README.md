@@ -21,6 +21,7 @@ Although Dicee is already pretty dicey, we get into problems when we try to rota
 * How to debug auto layout errors.
 * Understanding what Xcode needs in order to correctly layout a design.
 * How to use Stack Views to create complex interfaces.
+* How to create IBOutlets and IBActions
 
 
 ### To refer to the videos , go to section 6 here -> https://www.udemy.com/course/ios-13-app-development-bootcamp/learn/lecture/16252628#overview (Videso 59-68)
